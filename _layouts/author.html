@@ -34,7 +34,7 @@ layout: default
                     <div class="card">
                         <div class="card-content">
                             <p class="title is-5">{{ post.title }}</p>
-                            <p class="subtitle is-6">Published {{ post.date | date: "%b %-d, %Y" }} by {{ post.author }}</p>
+                            <!--<p class="subtitle is-6">Published {{ post.date | date: "%b %-d, %Y" }} by {{ post.author }}</p> -->
 
                             <div class="content">
                                 {{ post.excerpt | strip_html | strip_newlines | truncate: 100 }}
