@@ -2,7 +2,6 @@
 layout: post
 title: SERVICIOS 
 author: Gael Orta 
----
 image:"http://www.icorp.com.mx/blog/wp-content/uploads/2020/10/tercerizar_servicios_ti-713x330.jpg" 
 ---
 
