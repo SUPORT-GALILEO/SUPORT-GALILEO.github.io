@@ -1,7 +1,9 @@
 --- 
 layout: post
 title: SERVICIOS 
-author: Dave Mc Dave
+author: Gael Orta 
+---
+image:"http://www.icorp.com.mx/blog/wp-content/uploads/2020/10/tercerizar_servicios_ti-713x330.jpg" 
 ---
 
 ## Nuestros servicios son para todo el piblico ya que queremos ayudar a nuestros cientes para ayudar a mejorar sus computadoras y para su mejor rendimeinto nustra empresa te ofresera los mejores planes y nuestros servicios seran los mejores
