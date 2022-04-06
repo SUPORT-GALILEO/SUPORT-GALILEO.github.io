@@ -1,6 +1,7 @@
 --- 
 layout: post
 title: CONTACTOS 
+image: "https://www.metlife.com.mx/content/dam/metlifecom/mx/landings/coronavirus/call.png" width="500" height="333">
 --- 
 
 
