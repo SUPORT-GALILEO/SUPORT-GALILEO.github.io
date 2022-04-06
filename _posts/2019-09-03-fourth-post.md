@@ -1,7 +1,7 @@
 --- 
 layout: post
 title: CONTACTOS 
---- "https://indalics.com/wp-content/uploads/2018/11/contacto-indalics.jpg"
+--- 
 
 
 <form action="https://formspree.io/f/mgedlkdo" method="post">
