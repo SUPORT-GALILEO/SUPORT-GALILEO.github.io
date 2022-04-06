@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Mere Blog Theme
-subtitle: This is the demo site for the Mere Blog Theme
+title: BIENVENIDOS A SUPORT-GALILEO 
+subtitle: La mejor experiencia tecnologica 
 image: /img/home.jpg
 hero_image: /img/home.jpg
 hero_height: is-large
