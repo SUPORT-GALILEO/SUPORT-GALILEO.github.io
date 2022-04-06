@@ -3,7 +3,6 @@ layout: post
 title: Nosotros 
 ---
 author: Gael Orta 
----
 image:"https://www.soy502.com/sites/default/files/styles/full_node/public/2020/Oct/01/peanuts_charlie_brown_snoopy_soy502_guatemala.jpg" 
 ---
 
