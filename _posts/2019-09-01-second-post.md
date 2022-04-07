@@ -1,7 +1,7 @@
---- 
+---
 layout: post
 title: UBICACION 
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSICff6HpIhKtVHtaWKtHW6VdpLNa_3kKLVVg&usqp=CAU"
+image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSICff6HpIhKtVHtaWKtHW6VdpLNa_3kKLVVg&usqp=CAU
 ---
 
 
