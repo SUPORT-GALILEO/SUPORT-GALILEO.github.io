@@ -2,7 +2,7 @@
 layout: post
 title: Nosotros 
 author: Gael Orta 
-image: https://www.soy502.com/sites/default/files/styles/full_node/public/2020/Oct/01/peanuts_charlie_brown_snoopy_soy502_guatemala.jpg
+image: peanuts_charlie_brown_snoopy_soy502_guatemala.jpg 
 ---
 
 ## Esta empresa lleva mas de 5 años dando servio a clientes que tienen problemas o requieren algun mantenimiento a su PC,impresora,monitores, y busca dar los mejores servicios del mundo y asi como ganar su confianza igual contamos con servicio presencial hasta la puerta de su casa o a distrancia, contamos tambien con local
