@@ -2,7 +2,7 @@
 layout: homepage
 title: BIENVENIDOS A SUPORT-GALILEO 
 subtitle: La mejor experiencia tecnologica 
-image: https://phantom-expansion.unidadeditorial.es/5f2bdd05b9dac546ffe6653b6c00c8d6/resize/414/f/jpg/assets/multimedia/imagenes/2020/12/15/16080660925480.jpg
+image: https://fundacioncompartir.org/sites/default/files/la-nueva-tecnologia-que-esta-moviendo-al-mundo.jpg
 hero_height: is-large
 ---
 
