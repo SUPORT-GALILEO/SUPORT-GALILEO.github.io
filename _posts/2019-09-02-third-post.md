@@ -1,7 +1,9 @@
 --- 
 layout: post
 title: FAQ
+image:"https://www.compartirpalabramaestra.org/sites/default/files/field/image/preguntas-inesperadas-para-activar-la-atencion-en-clase.jpg"
 ---
+
 
 ## Preguntas Frecuentes
 
