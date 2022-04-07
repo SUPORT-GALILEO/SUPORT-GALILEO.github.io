@@ -2,8 +2,7 @@
 layout: homepage
 title: BIENVENIDOS A SUPORT-GALILEO 
 subtitle: La mejor experiencia tecnologica 
-image: https://1.bp.blogspot.com/-2e_rfV4USSc/WrFAXwF6w9I/AAAAAAAAMHA/lwAE5z2t8F8qPDqH9W5B6ixV6iAZtrpugCLcBGAs/s1600/Computadora-Escritorio.png
-hero_image: /img/home.jpg
+image: https://phantom-expansion.unidadeditorial.es/5f2bdd05b9dac546ffe6653b6c00c8d6/resize/414/f/jpg/assets/multimedia/imagenes/2020/12/15/16080660925480.jpg
 hero_height: is-large
 ---
 
