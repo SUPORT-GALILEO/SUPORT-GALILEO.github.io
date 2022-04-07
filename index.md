@@ -2,7 +2,7 @@
 layout: homepage
 title: BIENVENIDOS A SUPORT-GALILEO 
 subtitle: La mejor experiencia tecnologica 
-image: /img/home.jpg
+image: https://media.istockphoto.com/vectors/call-center-customer-suport-service-icon-vector-illustration-vector-id1173285302?k=20&m=1173285302&s=612x612&w=0&h=sNVvaE_Uk-TnzSdwCOV4AgiwQyYK2nMNlQAU-ddRO_4= 
 hero_image: /img/home.jpg
 hero_height: is-large
 ---
