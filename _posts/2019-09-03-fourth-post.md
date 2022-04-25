@@ -14,7 +14,7 @@ No. Telefono:<input type="text" name="no.telefono"><br>
  
  <label for="birthday">Fecha del Servicio:</label>
   <input type="date" id="birthday" name="birthday">
-  <input type="submit" value="Submit">
+  <input type= value="Submit">
   
   
  
