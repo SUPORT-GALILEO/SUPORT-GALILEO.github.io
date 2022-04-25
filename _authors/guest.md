@@ -1,8 +1,8 @@
 ---
-title: Guest Author - web designer
-name: Guest Author
-position: Web Designer
-description: This is an example of a guest author
+title: AUTOR
+name: Gael Orta 
+position: Ingeniero 
+description: Su mejor servidor 
 avatar: /img/guest.png
 ---
 This is an example page for a guest author and how the page could look. 
