@@ -6,4 +6,4 @@ image: https://fundacioncompartir.org/sites/default/files/la-nueva-tecnologia-qu
 hero_height: is-large
 ---
 
-## Eres parte de esta experiencia tecnología 
+## Eres parte de esta experiencia tecnologíca  
